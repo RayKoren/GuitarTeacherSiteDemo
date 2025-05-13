@@ -1,6 +1,6 @@
-# John D Cox Music Website
+# John Doe Music Website
 
-A professional website for John D Cox, a musician and guitar teacher in Sheridan, Wyoming.
+A professional website for John Doe, a musician and guitar teacher in Sheridan, Wyoming.
 
 ## Features
 

@@ -121,10 +121,10 @@ const Contact: React.FC = () => {
                       <h4 className="font-semibold">Phone</h4>
                       <p className="text-gray-600">
                         <a
-                          href="tel:+13077637913"
+                          href="tel:+10000000000"
                           className="hover:text-[#8B4513]"
                         >
-                          {contactInfo.phone}
+                          (000) 000-0000
                         </a>
                       </p>
                       <p className="text-sm text-gray-500">
@@ -144,10 +144,10 @@ const Contact: React.FC = () => {
                       <h4 className="font-semibold">Email</h4>
                       <p className="text-gray-600">
                         <a
-                          href={`mailto:${contactInfo.email}`}
+                          href="mailto:john.doe@email.com"
                           className="hover:text-[#8B4513]"
                         >
-                          {contactInfo.email}
+                          john.doe@email.com
                         </a>
                       </p>
                       <p className="text-sm text-gray-500">

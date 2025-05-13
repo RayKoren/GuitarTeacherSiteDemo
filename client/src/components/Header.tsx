@@ -34,7 +34,7 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-4 py-3 flex justify-between items-center">
         <div className="flex items-center">
           <h1 className="text-2xl md:text-3xl font-display font-bold text-[#8B4513]">
-            John D Cox
+            John Doe
             <span className="text-sm block text-[#3D7B80] font-body">Music Educator</span>
           </h1>
         </div>
@@ -56,7 +56,7 @@ const Header: React.FC = () => {
           <button onClick={() => handleNavClick('performances')} className="font-medium hover:text-[#8B4513] transition-colors">Performances</button>
           <button onClick={() => handleNavClick('gigs')} className="font-medium hover:text-[#8B4513] transition-colors">Gigs</button>
           <button onClick={() => handleNavClick('contact')} className="font-medium hover:text-[#8B4513] transition-colors">Contact</button>
-          <a href="tel:+13077637913" className="bg-[#8B4513] text-white px-4 py-2 rounded-md hover:bg-opacity-90 transition-all">
+          <a href="tel:+10000000000" className="bg-[#8B4513] text-white px-4 py-2 rounded-md hover:bg-opacity-90 transition-all">
             <i className="fas fa-phone-alt mr-2"></i>Call Now
           </a>
         </nav>
@@ -71,7 +71,7 @@ const Header: React.FC = () => {
           <button onClick={() => handleNavClick('performances')} className="font-medium py-2 border-b border-gray-100 hover:text-[#8B4513] transition-colors text-left">Performances</button>
           <button onClick={() => handleNavClick('gigs')} className="font-medium py-2 border-b border-gray-100 hover:text-[#8B4513] transition-colors text-left">Gigs</button>
           <button onClick={() => handleNavClick('contact')} className="font-medium py-2 hover:text-[#8B4513] transition-colors text-left">Contact</button>
-          <a href="tel:+13077637913" className="bg-[#8B4513] text-white text-center px-4 py-2 rounded-md hover:bg-opacity-90 transition-all">
+          <a href="tel:+10000000000" className="bg-[#8B4513] text-white text-center px-4 py-2 rounded-md hover:bg-opacity-90 transition-all">
             <i className="fas fa-phone-alt mr-2"></i>Call Now
           </a>
         </div>

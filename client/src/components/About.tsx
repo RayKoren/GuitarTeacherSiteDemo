@@ -11,8 +11,8 @@ const About: React.FC = () => {
             <div className="overflow-hidden rounded-lg shadow-xl">
               <div className="absolute inset-0 bg-gradient-to-r from-[#8B4513]/30 to-[#E6A067]/30 rounded-lg z-10"></div>
               <img 
-                src="/assets/jc.jpg" 
-                alt="John D Cox - Music Teacher" 
+                src="https://images.unsplash.com/photo-1511379938547-c1f69419868d?auto=format&fit=crop&w=1000&q=80"
+                alt="Guitar teacher with student" 
                 className="w-full h-auto object-cover relative"
               />
             </div>
@@ -22,7 +22,7 @@ const About: React.FC = () => {
             <h2 className="text-3xl md:text-4xl font-display font-bold text-[#8B4513] mb-6">About John</h2>
             
             <p className="text-lg mb-6 leading-relaxed">
-              Welcome! I'm John Cox, a passionate musician and dedicated guitar instructor based in Sheridan, Wyoming. With over 15 years of performance experience and 10 years teaching students of all ages, I provide personalized instruction tailored to your musical goals.
+              Welcome! I'm John Doe, a passionate musician and dedicated guitar instructor based in Sheridan, Wyoming. With over 15 years of performance experience and 10 years teaching students of all ages, I provide personalized instruction tailored to your musical goals.
             </p>
             
             <p className="text-lg mb-6 leading-relaxed">

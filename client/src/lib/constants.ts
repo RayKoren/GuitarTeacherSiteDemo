@@ -92,8 +92,8 @@ export const testimonials = [
 ];
 
 export const contactInfo = {
-  phone: "(307) 763-7913",
-  email: "contact@johndcoxmusic.com",
+  phone: "(000) 000-0000",
+  email: "john.doe@email.com",
   location: "Sheridan, Wyoming",
   hours: {
     weekdays: "Monday-Friday: 10am-8pm",

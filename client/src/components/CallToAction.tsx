@@ -22,7 +22,7 @@ const CallToAction: React.FC = () => {
             className="bg-transparent text-white border-2 border-white hover:bg-white hover:bg-opacity-10 text-lg px-6 py-6"
             asChild
           >
-            <a href="tel:+13077637913">
+            <a href="tel:+10000000000">
               <i className="fas fa-phone-alt mr-2"></i>Call Now
             </a>
           </Button>
